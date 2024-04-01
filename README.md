@@ -30,7 +30,7 @@ I'm currently studying at Laguna State Polytechnic University - Sta. Cruz Campus
 
 ## Statistics
 
-<p align="center">![xchanbacsafra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xchanbacsafra&theme=vue-dark&hide_border=false)</p>
+![xchanbacsafra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xchanbacsafra&theme=vue-dark&hide_border=false)
 
 ![xchanbacsafra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xchanbacsafra&theme=vue-dark&hide_border=false)
 
