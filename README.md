@@ -28,3 +28,10 @@ I'm currently studying at Laguna State Polytechnic University - Sta. Cruz Campus
 ![Bootstrap](https://camo.githubusercontent.com/57396ca28ed73547fcc53dc43c059550f0fd7233ab6ac26fd40d65ad0d3018d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)
 ![CSS](https://camo.githubusercontent.com/6531a4161596e3d9fdab3d0499a7b7ce5c5c8b568be219f3e9707af042e575d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 
+## Statistics
+
+<p align="center">![xchanbacsafra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xchanbacsafra&theme=vue-dark&hide_border=false)</p>
+
+![xchanbacsafra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xchanbacsafra&theme=vue-dark&hide_border=false)
+
+![xchanbacsafra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xchanbacsafra&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
