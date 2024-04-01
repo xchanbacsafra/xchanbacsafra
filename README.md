@@ -30,8 +30,8 @@ I'm currently studying at Laguna State Polytechnic University - Sta. Cruz Campus
 
 ## Statistics
 
-![xchanbacsafra's Stats](https://github-readme-stats.vercel.app/api?username=xchanbacsafra&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![xchanbacsafra's Stats](https://github-readme-stats.vercel.app/api?username=xchanbacsafra&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 
-![xchanbacsafra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xchanbacsafra&theme=vue-dark&hide_border=false)
+![xchanbacsafra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xchanbacsafra&theme=blue-green&hide_border=true)
 
-![xchanbacsafra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xchanbacsafra&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![xchanbacsafra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xchanbacsafra&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
