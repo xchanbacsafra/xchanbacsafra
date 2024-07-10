@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-I'm currently studying at Laguna State Polytechnic University - Sta. Cruz Campus taking Bachelor of Science in Information Technology Major in Web and Mobile Development.
+A graduated Info Tech student of Laguna State Polytechnic University - Sta. Cruz Campus with a degree Bachelor of Science in Information Technology Major in Web and Mobile Development.
 
 
 ## Some details about me...
-👩‍💻 I'm currently working on my school and future projects...
+👩‍💻 I'm currently working on my future projects...
 
 🧠 I'm currently learning some languages specifically in JavaScript and C#...
 
